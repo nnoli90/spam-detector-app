@@ -6,8 +6,6 @@ import streamlit as st
 import joblib
 import re
 import string
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # Page configuration
 st.set_page_config(
