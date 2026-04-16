@@ -1,0 +1,143 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+
+# ===============================
+# Virtual Environment
+# ===============================
+venv/
+.env
+.venv
+.virtualenv
+virtualenv/
+myenv/
+spam_env/
+
+# ===============================
+# IDE and Editor Files
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.history/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.ipynb_metadata/
+.ipynb-*
+**/.ipynb_checkpoints/
+
+# ===============================
+# Model Files (Optional - uncomment if you don't want to commit models)
+# ===============================
+# *.pkl
+# *.joblib
+# spam_model.pkl
+# vectorizer.pkl
+
+# ===============================
+# Data Files
+# ===============================
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+*.sqlite3
+data/
+dataset/
+*.tsv
+
+# ===============================
+# Logs and Databases
+# ===============================
+*.log
+*.pid
+*.seed
+*.pid.lock
+logs/
+*.sql
+*.sqlite
+
+# ===============================
+# Streamlit
+# ===============================
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ===============================
+# Testing
+# ===============================
+.coverage
+.coverage.*
+.htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.envrc
+.env.local
+.env.*.local
+
+# ===============================
+# Secret/Token Files
+# ===============================
+secrets.txt
+tokens.txt
+*.key
+*.pem
+*.crt
