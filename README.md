@@ -47,7 +47,9 @@ pip install -r requirements.txt
 # Run app
 streamlit run app.py
 
+```bash
 
-🚀 Deployment
+
+## 🚀 Deployment
 Deployed on Streamlit Community Cloud - free and easy hosting for Python apps.
 https://spam-sms-detector-app-y3ekkjusgxvpwwes9mwjcs.streamlit.app/
