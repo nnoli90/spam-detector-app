@@ -3,6 +3,10 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-orange)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+## 🚀 Live Demo
+
+**Try the app here:** [https://spam-sms-detector-app-y3ekkjusgxvpwwes9mwjcs.streamlit.app/](https://spam-sms-detector-app-y3ekkjusgxvpwwes9mwjcs.streamlit.app/)
+
 ## 🚀 How It Works
 
 1. User enters a text message
@@ -46,10 +50,3 @@ pip install -r requirements.txt
 
 # Run app
 streamlit run app.py
-
-```bash
-
-
-## 🚀 Deployment
-Deployed on Streamlit Community Cloud - free and easy hosting for Python apps.
-https://spam-sms-detector-app-y3ekkjusgxvpwwes9mwjcs.streamlit.app/
